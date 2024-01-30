@@ -38,7 +38,7 @@ print(f"Your final account balance is GEL{account_balance}. Program terminated."
 # დაწერე პროგრამა _ თუთიყუში. პროგრამამ უნდა გაიმეოროს რასაც ეტყვი მანამ სანამ არ შეიყვან სიტყვას quit, თუმცა წინ დაურთოს კითხვა „User Said Whaaat!?”
 # თუ შევიყვანეთ სიტყვა Hello დაიბეჭდება
 # „User Said Whaaat!?”
-# “User Said Hello”
+# “User Said Hello”  123456
 
 #ამოხსნაw
 while True:
